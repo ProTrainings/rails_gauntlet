@@ -19,7 +19,7 @@
 //       }
 //
 //       if (clients.openWindow) {
-//         return clients.openWindow(event.notification.data.path)
+//         return clients.opOenWindow(event.notification.data.path)
 //       }
 //     })
 //   )
